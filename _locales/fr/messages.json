@@ -1,0 +1,31 @@
+{
+    "extensionLocale": {
+        "message": "fr"
+    },
+    "extensionDescription": {
+        "message": "Nettoie les URLs provenant de Facebook en retirant les informations personnelles."
+    },
+    "extensionName": {
+        "message": "Nettoyeur d'URL Facebook"
+    },
+    "extensionShortName": {
+        "message": "facebookUrlSanitizer"
+    },
+    "extractURL": {
+        "message": "Copier l'URL dans le presse-papier"
+    },
+    "openInPrivate": {
+        "message": "Ouvrir l'URL en navigation privée"
+    },
+    "copyNotificationTitle": {
+        "message": "Lien copié dans le presse-papier"
+    },
+    "copyNotificationContent": {
+        "message": "$URL$\nCliquer pour ouvrir en navigation privée.",
+        "placeholders": {
+            "url": {
+                "content": "$1"
+            }
+        }
+    }
+}

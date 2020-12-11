@@ -1,0 +1,31 @@
+{
+    "extensionLocale": {
+        "message": "en"
+    },
+    "extensionDescription": {
+        "message": "Sanitize Facebook URLs by removing internal idientifiers."
+    },
+    "extensionName": {
+        "message": "Facebook URL Sanitizer"
+    },
+    "extensionShortName": {
+        "message": "facebookUrlSanitizer"
+    },
+    "extractURL": {
+        "message": "Copy URL to clipboard"
+    },
+    "openInPrivate": {
+        "message": "Open URL in private window"
+    },
+    "copyNotificationTitle": {
+        "message": "Link copied to clipboard"
+    },
+    "copyNotificationContent": {
+        "message": "$URL$\nClick to open in a new private window.",
+        "placeholders": {
+            "url": {
+                "content": "$1"
+            }
+        }
+    }
+}

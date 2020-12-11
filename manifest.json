@@ -1,0 +1,19 @@
+{
+    "background": {
+        "page": "html/background.html"
+    },
+    "description": "__MSG_extensionDescription__",
+    "default_locale": "en",
+    "manifest_version": 2,
+    "incognito": "spanning",
+    "name": "__MSG_extensionName__",
+    "permissions": [
+        "menus",
+        "activeTab",
+        "clipboardWrite",
+        "notifications",
+        "webRequest",
+        "webRequestBlocking"
+    ],
+    "version": "1.0"
+}
